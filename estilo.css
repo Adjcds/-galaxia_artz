@@ -19,6 +19,11 @@ body {
 p {
     color: #fff;
 }
+
+.sobre_texto span{
+    font-size: 25px;
+    background-color: #ffffff00;
+}
 .container{
     height: 100%;
     max-width: 600px;
